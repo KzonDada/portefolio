@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 56px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+}
+p {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    background-color: #6075a1;
+    padding: 10px 10px;
+    border: 2px solid #0e0225; 
+    border-radius: 8px; 
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.2);
+}
+
+a {
+    display: inline-block;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Merriweather', serif;
+    background-color: #3ed6cf;
+    padding: 10px 10px;
+    border: 2px solid #2a90a1; 
+    border-radius: 8px; 
+    box-shadow: 3px 3px 6px rgba(9, 120, 148, 0.2);
+}
